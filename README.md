@@ -31,11 +31,11 @@ Users should be able to:
 
 #### Mobile
 
-![Mobile Screenshot](C:\MAKE IT REAL DOCS\proyect-react\proyect.react\phonePNG.PNG)
+![Mobile Screenshot](phonePNG.PNG)
 
 #### Desktop
 
-![Desktop Screenshot](C:\MAKE IT REAL DOCS\proyect-react\proyect.react\desktopPNG.PNG)
+![Desktop Screenshot](desktopPNG.PNG)
 
 ## My process
 
